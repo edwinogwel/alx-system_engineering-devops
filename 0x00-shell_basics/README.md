@@ -17,3 +17,5 @@
 101-clean_emacs script deletes all files in the current working directory that end with the character ~
 102-tree script creates the directories welcome/, welcome/to/ and welcome/to/school in the current director
 103-commas script lists all the files and directories of the current directory, separated by commas
+
+school.mgc creates a magic file that can be used with the command file to detect School data files
